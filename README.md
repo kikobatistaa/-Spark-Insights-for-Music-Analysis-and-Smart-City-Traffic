@@ -93,3 +93,9 @@ Feel free to fork this repository, contribute with improvements, or create pull 
 
 ## License
 This project is licensed for **evaluation purposes by NOVA IMS only**. Any use of the project outside of this context is prohibited without prior consent from the author.
+
+## Access Links
+You can access the Databricks notebooks for the project using the following links:
+
+- [Spotify Music Analysis Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2903900417904720/2428841347580027/6154594242300663/latest.html)
+- [Traffic Prediction for Smart Cities Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2903900417904720/4362987474355535/6154594242300663/latest.html)
