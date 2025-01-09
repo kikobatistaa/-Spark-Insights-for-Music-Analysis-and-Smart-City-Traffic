@@ -97,5 +97,5 @@ This project is licensed for **evaluation purposes by NOVA IMS only**. Any use o
 ## Access Links
 You can access the Databricks notebooks for the project using the following links:
 
-- [Spotify Music Analysis Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2903900417904720/2428841347580027/6154594242300663/latest.html)
-- [Traffic Prediction for Smart Cities Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2903900417904720/4362987474355535/6154594242300663/latest.html)
+- [Traffic Prediction for Smart Cities Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2903900417904720/2428841347580027/6154594242300663/latest.html)
+- [Spotify Music Analysis Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2903900417904720/4362987474355535/6154594242300663/latest.html)
